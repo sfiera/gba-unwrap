@@ -52,12 +52,12 @@ GBA = {
     #     (0x00000, NES, JPN, HUDSON, "Star Soldier"),
     #     (0x00000, NES, JPN, HUDSON, "Hector '87"),
     # ],
-    # "HUBEST_VOL06B76J": [
-    #     (0x00000, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima"),
-    #     (0x00000, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima II"),
-    #     (0x00000, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima III"),
-    #     (0x00000, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima IV"),
-    # ],
+    "HUBEST_VOL06B76J": [
+        (0x38248, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima"),
+        (0x48258, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima II"),
+        (0x88268, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima III"),
+        (0xc8278, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima IV"),
+    ],
     "SHINJAJA\0\0\0\0BNJJ": [
         (0x23B20, NES, JPN, JALECO, "Jajamaru no Daibouken"),  # not working
         (0x1BAE0, NES, JPN, JALECO, "Ninja Jajamaru-kun"),
