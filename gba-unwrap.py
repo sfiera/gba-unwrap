@@ -47,11 +47,11 @@ GBA = {
         (0x32EE4, NES, JPN, HUDSON, "Binary Land"),
         (0x38EF4, NES, JPN, HUDSON, "Salad no Kuni no Tomato Hime"),
     ],
-    # "HUBEST_VOL05B75J": [
-    #     (0x00000, NES, JPN, HUDSON, "Star Force"),
-    #     (0x00000, NES, JPN, HUDSON, "Star Soldier"),
-    #     (0x00000, NES, JPN, HUDSON, "Hector '87"),
-    # ],
+    "HUBEST_VOL05B75J": [
+        (0x28d68, NES, JPN, HUDSON, "Star Force"),
+        (0x2ed78, NES, JPN, HUDSON, "Star Soldier"),
+        (0x3ed88, NES, JPN, HUDSON, "Hector '87"),
+    ],
     "HUBEST_VOL06B76J": [
         (0x38248, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima"),
         (0x48258, NES, JPN, HUDSON, "Takahashi Meijin no Bouken-jima II"),
